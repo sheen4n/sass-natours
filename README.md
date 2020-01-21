@@ -10,3 +10,7 @@ This is an example af an ASP.NET MVC application, following the tutorial of Jona
 - Run 'npm install'
 - Run 'npm run start'
 - The browser should automatically start with the web page in development mode.
+
+### Live Preview
+
+Visit (https://vigilant-kowalevski-3098bb.netlify.com/) for a live-preview of the website.
