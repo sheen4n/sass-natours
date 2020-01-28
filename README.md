@@ -2,8 +2,7 @@
 
 A Portfolio Project built using advanced CSS/ SASS and HTML.
 
-This is an example af an ASP.NET MVC application, following the tutorial of Jonas Schmedtann.
-
+This is an example af an SASS/ CSS and HTML Website following the tutorial of Jonas Schmedtann.
 
 ## How to run the project
 
@@ -13,4 +12,4 @@ This is an example af an ASP.NET MVC application, following the tutorial of Jona
 
 ### Live Preview
 
-Visit (https://vigilant-kowalevski-3098bb.netlify.com/) for a live-preview of the website.
+Visit (https://vigilant-kowalevski-3098bb.netlify.com/) or (https://sheen4n.github.io/sass-natours/) for a live-preview of the website.
