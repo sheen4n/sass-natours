@@ -11,5 +11,5 @@ This is an example of an SASS/ CSS and HTML Website following the tutorial of Jo
 - The browser should automatically start with the web page in development mode.
 
 ### Live Preview
-
+![Natours Screenshot](screenshot.jpg)
 Visit (https://vigilant-kowalevski-3098bb.netlify.com/) or (https://sheen4n.github.io/sass-natours/) for a live-preview of the website.
